@@ -1,0 +1,12 @@
+<script type="text/javascript">
+    var wumiiPermaLink = "{{ site.production_url }}{{page.url}}";
+    var wumiiTitle = "{{ page.title }}";
+    var wumiiTags = "{{ page.tags | join: ',' }}";
+    var wumiiCategories = [{{ '"' }}{{ page.categories | json }}{{ '"' }}];
+    var wumiiSitePrefix = "http://yanhaijing.com/";
+    var wumiiParams = "&num=5&mode=3&pf=JAVASCRIPT";
+</script>
+<script type="text/javascript" src="http://widget.wumii.cn/ext/relatedItemsWidget"></script>
+<a href="http://www.wumii.com/widget/relatedItems" style="border:0;">
+    <img src="http://static.wumii.cn/images/pixel.png" alt="" style="border:0;padding:0;margin:0;" />
+</a>
