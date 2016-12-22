@@ -87,9 +87,9 @@ JB :
   comments :
     provider : duoshuo
     disqus :
-      short_name : dennycn
+      short_name : keefe
     duoshuo :
-      short_name : dennycn
+      short_name : keefe
 
   # Settings for analytics helper
   # Set 'provider' to the analytics provider you want to use.
