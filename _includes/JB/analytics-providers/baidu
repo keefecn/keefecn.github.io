@@ -1,0 +1,13 @@
+<script type="text/javascript">
+//var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+//document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F53ee8889aa158cbb581bdbc9a373b5f0' type='text/javascript'%3E%3C/script%3E"));
+
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  //hm.src = "https://hm.baidu.com/hm.js?64344d27a02ec2495c596aa115ebb540";
+  hm.src = "https://hm.baidu.com/hm.js?" + '{{ site.JB.analytics.baidu.site_id }}';
+  var s = document.getElementsByTagName("script")[0];
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
