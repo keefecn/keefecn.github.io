@@ -6,6 +6,7 @@ tagline: "转载"
 tags : [jekyll]
 keywords: [jekyll]
 description: 本文介绍jekyll的安装，使用的方法，记录下来供自己和大家使用
+date:  2016-5-1 12:55:11
 ---
 {% include JB/setup %}
 

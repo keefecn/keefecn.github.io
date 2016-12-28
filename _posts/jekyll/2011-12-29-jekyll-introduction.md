@@ -4,6 +4,7 @@ category : jekyll
 tagline: "jekyll"
 tags : [jekyll]
 keywords: [jekyll]
+date:  2016-5-1 12:55:11
 description: This Jekyll introduction will outline specifically  what Jekyll is and why you would want to use it.
 ---
 {% include JB/setup %}

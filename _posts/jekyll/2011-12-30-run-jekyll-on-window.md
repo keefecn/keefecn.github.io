@@ -6,6 +6,7 @@ tagline: "转载"
 tags : [jekyll]
 keywords: [jekyll]
 description: Jekyll 是一个简单的网站静态页面生成工具。由于是用Ruby语音编写的，所以在Windows系统上配置起来还是稍微有点繁琐的。具体过程如下：
+date:  2016-5-1 12:55:11
 ---
 {% include JB/setup %}
 
