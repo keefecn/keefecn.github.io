@@ -3,7 +3,7 @@ layout: post
 title: 【Keefe.Studio】新闻搜索系统
 category : project
 tagline: "原创"
-tags : [project]
+tags : project MySQL/Sphinx 垂直搜索
 keywords: [主播]
 description: 新闻搜索的项目说明
 date: 2016-6-30

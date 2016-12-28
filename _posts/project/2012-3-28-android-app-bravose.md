@@ -3,8 +3,8 @@ layout: post
 title: 【Keefe.Studio】Android应用搜索Bravo SE
 category : project
 tagline: "原创"
-tags : [project]
-keywords: [Android]
+tags : Android Java
+keywords: Android
 description: Android应用搜索的项目说明
 ---
 ### 系统说明

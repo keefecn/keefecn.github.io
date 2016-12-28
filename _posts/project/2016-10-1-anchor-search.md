@@ -3,7 +3,7 @@ layout: post
 title: 【Keefe.Studio】主播聚合搜索系统
 category : project
 tagline: "原创"
-tags : [project]
+tags : Python 垂直搜索
 keywords: [主播]
 description: 主播聚合搜索的项目说明
 date: 2016-9-30
