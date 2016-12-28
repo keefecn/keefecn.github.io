@@ -8,13 +8,13 @@ group: navigation
 {% include JB/setup %}
 
 ## 个人简介
-热爱思考，热爱开源分享，爱好读书. wuqifu.cn是我的个人博客。
+热爱思考，热爱开源分享，爱好读书，爱好旅行. wuqifu.cn是我的个人博客。
 
 ## 微信公众号
 你可以关注我的微信公众号：**Keefe**，来和我交流。
 
 ## 我的作品
-<a target="_blank" href="http://sodenny.com/myProject/" title="我的作品">http://sodenny.com/myProject/</a>
+<a target="_blank" href="" title="我的作品"></a>
 
 ## 我的读书
 我在豆瓣维护了我的[读书清单](https://book.douban.com/people/dennycn/)，如果可以你可以送我我想读的书单中的书。
