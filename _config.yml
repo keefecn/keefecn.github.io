@@ -120,8 +120,25 @@ JB :
   # Settings for all other include helpers can be defined by creating
   # a hash with key named for the given helper. ex:
   #
-  #   pages_list :
-  #     provider : "custom"
+
+# set navigator: "custom"
+pages_list :
+    provider : ""
+nav:
+  - text: 首页
+    url: /index/
+  - text: 分类
+    url: /categories/
+  - text: 标签
+    url: /tags/
+  - text: 归档
+    url: /archive/
+  - text: 页面
+    url: /pages/
+  - text: 关于我
+    url: /about/
+
+
   #
   # Setting any helper's provider to 'custom' will bypass the helper code
   # and include your custom code. Your custom file must be defined at:

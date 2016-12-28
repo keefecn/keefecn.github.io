@@ -1,22 +1,23 @@
 ---
 layout: post
-title: 【Keefe.Studio】Android应用搜索Bravo SE
+title: 【Keefe.Studio】Android应用搜索 BravoSE
 category : project
 tagline: "原创"
-tags : Android Java
+tags : project Android Java
 keywords: Android
 description: Android应用搜索的项目说明
 ---
 ### 系统说明
-#### 软件需求源
+#### 软件需求来源
 
 #### 软件功能描述
 
 #### 项目相关需求
 
-
+***
 #### coding: Keefe Wu
 ### [项目地址](http://weibo.com/bravose)
+
 {% include JB/setup %}
 
 - Android应用搜索 ![Bravo SE]({{BLOG_IMG}}bravose.jpg)
