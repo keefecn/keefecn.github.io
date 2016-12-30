@@ -8,6 +8,7 @@ keywords: Android
 description: Android应用搜索的项目说明
 ---
 ### 系统说明
+
 #### 软件需求来源
 
 #### 软件功能描述
@@ -15,7 +16,9 @@ description: Android应用搜索的项目说明
 #### 项目相关需求
 
 ***
+
 #### coding: Keefe Wu
+
 ### [项目地址](http://weibo.com/bravose)
 
 {% include JB/setup %}

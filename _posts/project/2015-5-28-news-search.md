@@ -9,15 +9,17 @@ description: 新闻搜索的项目说明
 date: 2016-6-30
 ---
 ### 系统说明
+
 #### 软件需求来源
 
 #### 软件功能描述
 
 #### 软件相关需求
 
-
 ***
+
 #### coding: Keefe Wu
+
 ### [项目地址](http://www.wuqifu.cn/www_show/getnews/)
 
 {% include JB/setup %}
