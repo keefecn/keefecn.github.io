@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Keefe Wu
-tagline: 专注架构
+tagline: 专注软件开发和架构设计
 ---
 {% include JB/setup %}
 
